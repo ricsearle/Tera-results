@@ -11,7 +11,7 @@ Tera Sport fleet only — 4600 (Tera Pro) excluded. 2136 (Rosy) not competing.
 | 2   | 1991     | Freddie M | 3  | 2       | 5     |
 | 3   | 228      | Daniel | 2  | 3       | 5     |
 | 4   | 2584     | Kiera  | 4  | 4       | 8     |
-| 5   | 2166     | ?      | 6  | 5       | 11    |
+| 5   | 2166     | Cammy  | 6  | 5       | 11    |
 | 6   | 2392     | ?      | 5  | 7 (OCS) | 12    |
 
 Tie-break: 1991 and 228 level on 5 pts with identical scores (one 2nd, one 3rd); split on last race (A8.2) — 1991 placed ahead.
