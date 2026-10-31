@@ -31,6 +31,12 @@
   .win { font-weight:700; color:var(--accent); }
   .notes { margin-top:22px; font-size:9pt; color:#4a5563; border-top:2px solid var(--navy); padding-top:8px; }
   .notes p { margin:3px 0; }
+  table.grid th { width:25% !important; }
+  table.grid td { font-size:9.5pt; padding:6px 8px; }
+  .rp { display:inline-block; min-width:24px; font-weight:700; color:var(--navy); }
+  .rp.ocs { color:#b42318; font-size:8pt; }
+  .sn { color:#8a94a1; font-size:8.5pt; }
+  h2, table { break-inside: avoid; }
   .orders { font-size:9pt; color:#4a5563; margin:6px 0 0; padding-left:18px; }
   footer { margin-top:18px; font-size:8.5pt; color:#8a94a1; display:flex; justify-content:space-between; }
 </style></head>
@@ -61,19 +67,28 @@
 <table>
   <thead><tr><th>Pos</th><th>Sail No.</th><th class="l">Helm</th><th>R1</th><th>R2</th><th>R3</th><th>R4</th><th>Total</th></tr></thead>
   <tbody>
-    <tr><td class="pos"><span class="medal g">1</span></td><td>4600</td><td class="l helm">—</td><td class="win">1</td><td class="win">1</td><td class="win">1</td><td class="win">1</td><td class="total">4</td></tr>
+    <tr><td class="pos"><span class="medal g">1</span></td><td>4600</td><td class="l helm">Freddie P</td><td class="win">1</td><td class="win">1</td><td class="win">1</td><td class="win">1</td><td class="total">4</td></tr>
   </tbody>
 </table>
 
+<h2>Race by Race <span class="tag">TERA SPORT</span></h2>
+<p class="sub">Finishing order in each race</p>
+<table class="grid">
+  <thead><tr><th class="l">Race 1</th><th class="l">Race 2</th><th class="l">Race 3</th><th class="l">Race 4</th></tr></thead>
+  <tbody>
+    <tr><td class="l"><span class="rp">1</span> Rupert <span class="sn">3403</span></td><td class="l"><span class="rp">1</span> Rupert <span class="sn">3403</span></td><td class="l"><span class="rp">1</span> Rupert <span class="sn">3403</span></td><td class="l"><span class="rp">1</span> Rupert <span class="sn">3403</span></td></tr>
+    <tr><td class="l"><span class="rp">2</span> Daniel <span class="sn">228</span></td><td class="l"><span class="rp">2</span> Freddie M <span class="sn">1991</span></td><td class="l"><span class="rp">2</span> Kiera <span class="sn">2584</span></td><td class="l"><span class="rp">2</span> Penny <span class="sn">2392</span></td></tr>
+    <tr><td class="l"><span class="rp">3</span> Freddie M <span class="sn">1991</span></td><td class="l"><span class="rp">3</span> Daniel <span class="sn">228</span></td><td class="l"><span class="rp">3</span> Cammy <span class="sn">2166</span></td><td class="l"><span class="rp">3</span> Daniel <span class="sn">228</span></td></tr>
+    <tr><td class="l"><span class="rp">4</span> Kiera <span class="sn">2584</span></td><td class="l"><span class="rp">4</span> Kiera <span class="sn">2584</span></td><td class="l"><span class="rp">4</span> Daniel <span class="sn">228</span></td><td class="l"><span class="rp">4</span> Kiera <span class="sn">2584</span></td></tr>
+    <tr><td class="l"><span class="rp">5</span> Penny <span class="sn">2392</span></td><td class="l"><span class="rp">5</span> Cammy <span class="sn">2166</span></td><td class="l"><span class="rp">5</span> Freddie M <span class="sn">1991</span></td><td class="l"><span class="rp">5</span> Cammy <span class="sn">2166</span></td></tr>
+    <tr><td class="l"><span class="rp">6</span> Cammy <span class="sn">2166</span></td><td class="l"><span class="rp ocs">OCS</span> Penny <span class="sn">2392</span></td><td class="l"><span class="rp">6</span> Penny <span class="sn">2392</span></td><td class="l"><span class="rp">6</span> Freddie M <span class="sn">1991</span></td></tr>
+  </tbody>
+</table>
+<p class="sub" style="margin-top:6px">Tera Pro: 4600 Freddie P finished 1st in every race.</p>
+
 <div class="notes">
   <p><strong>Scoring:</strong> RRS Appendix A Low Point System. No discards. OCS / DNF / DNS / DNC scored as number of entries + 1.</p>
-  <p><strong>Finishing orders (Tera Sport):</strong></p>
-  <ul class="orders">
-    <li>Race 1 — 3403, 228, 1991, 2584, 2392, 2166</li>
-    <li>Race 2 — 3403, 1991, 228, 2584, 2166; 2392 OCS</li>
-    <li>Race 3 — 3403, 2584, 2166, 228, 1991, 2392</li>
-    <li>Race 4 — 3403, 2392, 228, 2584, 2166, 1991</li>
-  </ul>
+
 </div>
 <footer><span>Netley Sailing Club · Tera Racing</span><span>Provisional results — subject to protests</span></footer>
 </body></html>

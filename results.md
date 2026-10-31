@@ -25,4 +25,4 @@ Scoring: RRS Appendix A Low Point (1st = 1 pt, 2nd = 2 pts, …). DNF/DNS/DNC/OC
 
 | Pos | Sail No. | Helm | R1 | R2 | R3 | R4 | Total |
 |----:|---------:|------|---:|---:|---:|---:|------:|
-| 1   | 4600     | ?    | 1  | 1  | 1  | 1  | 4     |
+| 1   | 4600     | Freddie P | 1  | 1  | 1  | 1  | 4     |
