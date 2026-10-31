@@ -1,9 +1,11 @@
-# Tera Sport Race Results — 31 October 2026
+# Netley Sailing Club — Tera Race Results, 31 October 2026
+
+## Tera Sport
 
 Scoring: RRS Appendix A Low Point (1st = 1 pt, 2nd = 2 pts, …). DNF/DNS/DNC/OCS/DSQ = entries + 1 (currently 7). No discards.
 Tera Sport fleet only — 4600 (Tera Pro) excluded. 2136 (Rosy) not competing.
 
-## Overall (after 3 races)
+### Overall (after 3 races)
 
 | Pos | Sail No. | Helm      | R1 | R2      | R3 | Total |
 |----:|---------:|-----------|---:|--------:|---:|------:|
@@ -16,8 +18,14 @@ Tera Sport fleet only — 4600 (Tera Pro) excluded. 2136 (Rosy) not competing.
 
 Tie-break: Freddie M and Kiera level on 10 pts. Under A8.1 (scores ranked best to worst, compared at first difference) Freddie M has 2, 3, 5 vs Kiera's 2, 4, 4 — Freddie M placed ahead.
 
-## Race finishing orders (Tera Sport only)
+### Race finishing orders (Tera Sport only)
 
 - **Race 1:** 3403, 228, 1991, 2584, 2392, 2166
 - **Race 2:** 3403, 1991, 228, 2584, 2166; 2392 OCS
 - **Race 3:** 3403, 2584, 2166, 228, 1991, 2392
+
+## Tera Pro
+
+| Pos | Sail No. | Helm | R1 | R2 | R3 | Total |
+|----:|---------:|------|---:|---:|---:|------:|
+| 1   | 4600     | ?    | 1  | 1  | 1  | 3     |
