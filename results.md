@@ -8,7 +8,7 @@ Tera Sport fleet only — 4600 (Tera Pro) excluded. 2136 (Rosy) not competing.
 | Pos | Sail No. | Helm   | R1 | R2      | Total |
 |----:|---------:|--------|---:|--------:|------:|
 | 1   | 3403     | Rupert | 1  | 1       | 2     |
-| 2   | 1991     | ?      | 3  | 2       | 5     |
+| 2   | 1991     | Freddie M | 3  | 2       | 5     |
 | 3   | 228      | Daniel | 2  | 3       | 5     |
 | 4   | 2584     | ?      | 4  | 4       | 8     |
 | 5   | 2166     | ?      | 6  | 5       | 11    |
